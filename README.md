@@ -40,6 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://cdn.glitch.global/dd105f18-9760-4ec1-9f94-ef7162c8e584/Project_gif.gif?v=1648779040319)
+
 ![](https://cdn.glitch.global/dd105f18-9760-4ec1-9f94-ef7162c8e584/Project_gif2.gif?v=1648779062378)
 
 ## Reflection Questions
